@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\pablo\source\repos\2 sem 2 laba (4)\2 sem 2 laba (4)\source.cpp(268): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "God_word *"
+c:\users\pablo\source\repos\2 sem 2 laba (4)\2 sem 2 laba (4)\source.cpp(174): warning C4101: str: неиспользованная локальная переменная
+  2 sem 2 laba (4).vcxproj -> C:\Users\PaBlO\source\repos\2 sem 2 laba (4)\Debug\2 sem 2 laba (4).exe
+  2 sem 2 laba (4).vcxproj -> C:\Users\PaBlO\source\repos\2 sem 2 laba (4)\Debug\2 sem 2 laba (4).pdb (Partial PDB)

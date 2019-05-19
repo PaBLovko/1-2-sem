@@ -1,0 +1,5 @@
+	//if (fseek(m, 1, SEEK_CUR) == '\n')
+				//{
+				//	fprintf_s(l, "\n\n");
+				//	fseek(m, -1, SEEK_CUR);
+				//}

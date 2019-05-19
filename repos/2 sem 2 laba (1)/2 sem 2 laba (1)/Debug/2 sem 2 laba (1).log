@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\pablo\source\repos\2 sem 2 laba (1)\2 sem 2 laba (1)\source.cpp(266): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pablo\source\repos\2 sem 2 laba (1)\2 sem 2 laba (1)\source.cpp(268): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+c:\users\pablo\source\repos\2 sem 2 laba (1)\2 sem 2 laba (1)\source.cpp(67): warning C4101: begin_word: неиспользованная локальная переменная
+c:\users\pablo\source\repos\2 sem 2 laba (1)\2 sem 2 laba (1)\source.cpp(66): warning C4101: length_word: неиспользованная локальная переменная
+c:\users\pablo\source\repos\2 sem 2 laba (1)\2 sem 2 laba (1)\source.cpp(65): warning C4101: ch: неиспользованная локальная переменная
+c:\users\pablo\source\repos\2 sem 2 laba (1)\2 sem 2 laba (1)\source.cpp(68): warning C4101: seek_word: неиспользованная локальная переменная
+  2 sem 2 laba (1).vcxproj -> C:\Users\PaBlO\source\repos\2 sem 2 laba (1)\Debug\2 sem 2 laba (1).exe
+  2 sem 2 laba (1).vcxproj -> C:\Users\PaBlO\source\repos\2 sem 2 laba (1)\Debug\2 sem 2 laba (1).pdb (Partial PDB)

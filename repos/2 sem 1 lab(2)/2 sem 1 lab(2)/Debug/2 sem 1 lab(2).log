@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\pablo\source\repos\2 sem 1 lab(2)\2 sem 1 lab(2)\source.cpp(75): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\pablo\source\repos\2 sem 1 lab(2)\2 sem 1 lab(2)\source.cpp(150): warning C4804: >: небезопасное использование типа "bool" в операции
+c:\users\pablo\source\repos\2 sem 1 lab(2)\2 sem 1 lab(2)\source.cpp(118): warning C4101: c: неиспользованная локальная переменная
+  2 sem 1 lab(2).vcxproj -> C:\Users\PaBlO\source\repos\2 sem 1 lab(2)\Debug\2 sem 1 lab(2).exe
+  2 sem 1 lab(2).vcxproj -> C:\Users\PaBlO\source\repos\2 sem 1 lab(2)\Debug\2 sem 1 lab(2).pdb (Partial PDB)
